@@ -1,0 +1,35 @@
+/* //Hello world program in C++
+#include <iostream>     
+using namespace std;    
+int main() 
+{          
+    cout << "Hello \nWorld!"; 
+    return 0;         
+}*/
+
+/* //Entering no and printing it
+#include <iostream>
+int main() 
+{          
+    int Rno;
+    std::cout << "Enter a number: ";
+    std::cin >> Rno;
+    std::cout << "You entered: " << Rno; 
+    return 0;         
+}*/
+
+/* //Entering roll no and marks and printing it
+#include <iostream>
+using namespace std;
+int main()
+{          
+    int Rno,m1,m2,m3;
+    cout << "Enter your roll number: ";
+    cin >> Rno;
+    cout << "Enter your marks in 3 subjects: ";
+    cin >> m1 >> m2 >> m3;
+    cout << "Your roll number is: " << Rno<<endl<<m1<<endl<<m2<<endl<<m3; 
+    return 0;         
+}*/
+
+//
